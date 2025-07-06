@@ -1,0 +1,10 @@
+title,description,status,due_date,priority,assignee,created_date,id,archived
+Setup Project Structure,Create the initial project structure for the Kanban board application,Done,2025-07-05,High,John Doe,2025-07-01,4b81c76e-443d-40de-aaf2-4cf62a9e2968,False
+Design UI Components,Design the UI components for the Kanban board using HTML and CSS,In Progress,2025-07-10,Medium,Jane Smith,2025-07-02,c7add3ff-cb42-408f-9250-2f73cfa04625,False
+Implement Drag and Drop,Implement the drag and drop functionality for moving tasks between columns,To Do,2025-07-15,High,John Doe,2025-07-03,c4ecc5f3-0ada-46f2-ad98-03c6d049d759,False
+CSV Data Storage,Implement reading and writing tasks to CSV files,To Do,2025-07-20,Medium,Jane Smith,2025-07-03,9f687f3f-b48c-453b-8bac-acd1da561180,False
+Add Task Filtering,Add the ability to filter tasks by various criteria,To Do,2025-07-25,Low,John Doe,2025-07-03,afa80ca1-2853-42c7-924a-d5395870e4b7,False
+sfsdf,,To Do,2025-07-03,Medium,,2025-07-03,338fa708-ce59-4994-b883-5aaaf0c490b8,False
+gfhdh,,To Do,2025-07-03,Medium,,2025-07-03,158290e6-17a2-4add-a8b0-41866b3e073c,False
+asdasd,asdasd,To Do,2025-07-03,Medium,,2025-07-03,ab63acd5-3bf4-458a-aa7e-c992f2634734,False
+dfgdfg,dfgdfg,To Do,2025-07-03,Medium,,2025-07-03,fba7f34c-b53c-48c9-9503-65b654b4074e,False

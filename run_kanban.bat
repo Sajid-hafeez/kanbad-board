@@ -1,0 +1,3 @@
+@echo off
+echo Starting Kanban Board Application...
+"d:/projects/kanban board online/.venv/Scripts/python.exe" -m streamlit run app.py
